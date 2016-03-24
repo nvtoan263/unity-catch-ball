@@ -13,7 +13,7 @@ public class ball_cs : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+		// todo use plugin to move object
     }
 
     // Update is called once per frame
