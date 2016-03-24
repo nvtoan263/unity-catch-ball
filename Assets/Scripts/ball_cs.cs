@@ -17,7 +17,7 @@ public class ball_cs : MonoBehaviour
     }
 
     // Update is called once per frame
-    /*
+    
     void Update()
     {
         if (Input.touchCount > 0)
@@ -92,5 +92,5 @@ public class ball_cs : MonoBehaviour
             }
         }
     }
-    */
+    
 }
